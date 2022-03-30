@@ -3,7 +3,7 @@ var Bancos ={
 "name": "Bancos",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null, "Nombre_1": "Supervielle", "Direccion": "Paseo Stare - Puente Olive" }, "geometry": { "type": "Point", "coordinates": [ -68.84080755254142, -32.939334714423886 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre_1": "Supervielle", "Direccion": "Paseo eStare - Puente Olive" }, "geometry": { "type": "Point", "coordinates": [ -68.84080755254142, -32.939334714423886 ] } },
 { "type": "Feature", "properties": { "id": null, "Nombre_1": "Nación", "Direccion": "Rivadavia 537" }, "geometry": { "type": "Point", "coordinates": [ -68.84400710584643, -32.924569225679313 ] } },
 { "type": "Feature", "properties": { "id": null, "Nombre_1": "Patagonia", "Direccion": "Rivadavia 571" }, "geometry": { "type": "Point", "coordinates": [ -68.844341382483137, -32.924555830691716 ] } },
 { "type": "Feature", "properties": { "id": null, "Nombre_1": "Supervielle", "Direccion": "Rivadavia 585" }, "geometry": { "type": "Point", "coordinates": [ -68.844545127354877, -32.924493203336034 ] } },
